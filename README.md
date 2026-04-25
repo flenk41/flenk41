@@ -9,3 +9,8 @@
   <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=flenk41&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flenk41&layout=compact&theme=radical" alt="Top Langs" />
+</p>
