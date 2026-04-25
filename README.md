@@ -7,8 +7,8 @@
 
 
 <p align="center">
-  <a href="https://www.codewars.com/users/ВАШ_НИК_CODEWARS">
-    <img src="https://codewars-stats-card.vercel.app/api?username=flenk31&theme=midnight&stroke=%23CC0000&text=%23FFFFFF" alt="Codewars Stats" />
+  <a href="https://www.codewars.com/users/flenk31">
+    <img src="https://codewars-stats-card.vercel.app/api?username=flenk31&theme=midnight&stroke=%23CC0000&text=%23FFFFFF&color=%23CC0000" alt="Codewars Stats" />
   </a>
 </p>
 
