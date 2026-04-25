@@ -22,4 +22,8 @@
   <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" />
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,vscode,linux,git,github)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cmake,vscode,linux,py,cs,ts,js,unreal,git,github,steam&theme=dark" />
+  </a>
+</p>
