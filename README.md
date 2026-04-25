@@ -8,8 +8,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=flenk41&show_icons=true&theme=radical&title_color=CC0000&icon_color=CC0000&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flenk41&layout=compact&theme=radical&title_color=CC0000&hightlight_color=CC0000&hide_border=true" alt="Top Languages" />
 </p>
 
