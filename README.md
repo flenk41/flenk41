@@ -7,11 +7,8 @@
 
 
 <p align="center">
-  <a href="https://www.codewars.com/users/flenk31">
-    <img src="https://codewars-stats-card.vercel.app/api?username=flenk31&theme=midnight&stroke=%23CC0000&text=%23FFFFFF&color=%23CC0000" alt="Codewars Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=radical&title_color=CC0000&icon_color=CC0000&hide_border=true" alt="GitHub Stats" />
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
