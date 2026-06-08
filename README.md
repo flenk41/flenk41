@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cmake,vscode,linux,py,cs,ts,js,unreal,git,github,rust,steam&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,cmake,c,rust,vscode,linux,py,cs,ts,js,unreal,git,github,steam&theme=dark" />
 </p>
