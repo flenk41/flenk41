@@ -20,5 +20,10 @@
 </p>
 
 <p align="center">
+  <strong>Languages ​​I know well enough to use the documentation (which I have studied at least once to familiarize myself with them)</strong><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,css,html,lua,c#&theme=dark"/>
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,rust,cmake,vscode,linux,py,cs,ts,js,unreal,git,github,steam&theme=dark" />
 </p>
