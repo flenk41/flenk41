@@ -24,5 +24,5 @@
 
 <p align="center">
   <strong> I am actively studying it and devoting more time to it. Backend C,C++,RUST,DB and</strong> <br>
-  <img src="https://skillicons.dev/icons?i=cmake,vscode,linux,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cmake,vscode,linux,git,github,ci/cd&theme=dark" />
 </p>
