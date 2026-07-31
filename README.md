@@ -21,9 +21,10 @@
 
 <p align="center">
   <strong>Languages ​​I know well enough to use the documentation (which I have studied at least once to familiarize myself with them)</strong><br>
-  <img src="https://skillicons.dev/icons?i=js,ts,css,html,lua,c#&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,css,html,lua,cs&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,rust,cmake,vscode,linux,py,cs,ts,js,unreal,git,github,steam&theme=dark" />
+  I am actively studying it and devoting more time to it. Backend C,C++,RUST,DB and
+  <img src="https://skillicons.dev/icons?i=cmake,vscode,linux,git,github&theme=dark" />
 </p>
