@@ -11,9 +11,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flenk41&layout=compact&theme=dark&title_color=80c5ff&text_color=ffffff&border_color=8b3cfb" alt="Top Langs" />
 </p>
 
-<p align = "center">
-  <strong> BEST LANGUEG<b/> </strong>
+<p align="center">
+  <strong>BEST LANGUAGES BACKEND FOR <em>(BACKEND FOR EVER)</em></strong><br>
   <img src="https://skillicons.dev/icons?i=c,cpp,rust,python&theme=dark" />
+  
+  <strong>Languages ​​I know well enough to use the documentation (which I have studied at least once to familiarize myself with them)</strong><br>
 </p>
 
 <p align="center">
