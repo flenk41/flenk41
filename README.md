@@ -11,6 +11,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flenk41&layout=compact&theme=dark&title_color=80c5ff&text_color=ffffff&border_color=8b3cfb" alt="Top Langs" />
 </p>
 
+<p align = "center">
+  <strong> BEST LANGUEG<b/> </strong>
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python&theme=dark" />
+</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,rust,cmake,vscode,linux,py,cs,ts,js,unreal,git,github,steam&theme=dark" />
 </p>
